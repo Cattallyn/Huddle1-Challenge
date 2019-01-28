@@ -1,3 +1,74 @@
-body {
+ body {
+   margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+ }
 
-}
+ h1 {
+   font-family: 'Poppins', sans-serif;
+ }
+
+ p {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 1.125rem;
+ }
+
+ .top {
+   height: 100%;
+   background-image: url(../img/bg-hero-desktop.svg);
+   background-color: hsl(193, 100%, 96%);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ .logo {
+   margin: 50px 0 0px 100px;
+   width: 150px;
+   height: auto;
+ }
+
+ .call-to-action-button {
+   background-color: white;
+   float: right;
+   border: solid 1px hsl(193, 100%, 96%);
+   border-radius: 50px;
+   padding: 12px 45px;
+   color: hsl(192, 100%, 9%);
+   font-weight: bold;
+   margin: 50px 100px 50px 50px;
+   font-size: 14px;
+ }
+
+ .top-show-img {
+   width: 669px;
+   height: 466px;
+   position: absolute;
+   right: 130px;
+   top: 140px;
+ }
+
+ .infobox {
+   width: 40%;
+   margin-top: 150px;
+   margin-bottom: 150px;
+ }
+
+ .top-split {
+   width: 87%;
+   margin: 50px auto;
+ }
+
+ .infobox-button {
+   background-color: hsl(322, 100%, 66%);
+   border-radius: 50px;
+   padding: 16px 45px;
+   color: #fff;
+   font-weight: bold;
+   font-size: 14px;
+   width: 30%;
+   text-align: center;
+   margin-top: 20px;
+
+ }
